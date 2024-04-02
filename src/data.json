@@ -1,7 +1,7 @@
 {
-  "fullName": "Olivia Davis",
+  "fullName": "Kommanaboina Prabhas",
   "metadata": {
-    "title": "Olivia Davis - FullStack Developer",
+    "title": "Kommanaboina Prabhas - Web3 Developer",
     "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas quod magni enim facilis porro, repellat soluta distinctio deserunt veritatis nam molestiae eius nostrum natus dolor? Voluptates in iusto aspernatur illum",
     "keywords": [
       "Olivia Davis",
@@ -14,19 +14,24 @@
       "Node.js"
     ]
   },
-  "typedText": ["Full Stack Guru", "Design Maestro", "Bug Resolver"],
-  "email": "oliviadavis@example.com",
-  "location": "New York, USA",
+  "typedText": [
+    "Web3 Developer",
+    "Solidity",
+    "Smart Contract development",
+    "Decentralized Applications"
+  ],
+  "email": "prabhas1118@gmail.com",
+  "location": "Ongole, India",
   "description": [
     "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas quod magni enim facilis porro, repellat soluta distinctio deserunt veritatis nam molestiae eius nostrum natus dolor? Voluptates in iusto aspernatur illum",
     "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas quod magni enim facilis porro.",
     " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas quod magni enim facilis porro, repellat soluta distinctio deserunt veritatis nam molestiae eius nostrum natus dolor? Voluptates in iusto aspernatur illum."
   ],
   "links": {
-    "twitter": "https://twitter.com/kotlin",
-    "linkedin": "https://linkedin.com/in/kotlin",
-    "github": "https://github.com/kotlin",
-    "mail": "mailto:oliviadavis@example.com",
+    "twitter": "https://twitter.com/prabhas_eth",
+    "linkedin": "https://www.linkedin.com/in/prabhas-k",
+    "github": "https://github.com/prabhas1118",
+    "mail": "mailto:prabhas1118@gmail.com",
     "blog": "https://blog.example.com"
   },
   "skills": [
@@ -50,7 +55,11 @@
       "description": "Play a game of Connect Four against another human player (alternating turns on the same computer)",
       "codeSrc": "https://github.com/zougari47/portfolio-template",
       "liveDemoURL": "https://github.com/zougari47/portfolio-template",
-      "technologies": ["typescript", "tailwind", "next"]
+      "technologies": [
+        "typescript",
+        "tailwind",
+        "next"
+      ]
     },
     {
       "imageSrc": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/zurpxclpp6gavavnw6d2.jpg",
@@ -58,7 +67,9 @@
       "description": "Navigate between Home, Movies, TV Series, and Bookmarked Shows pages",
       "codeSrc": "https://github.com/zougari47/portfolio-template",
       "liveDemoURL": "https://github.com/zougari47/portfolio-template",
-      "technologies": ["node"]
+      "technologies": [
+        "node"
+      ]
     },
     {
       "imageSrc": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/mubyltw6vmbmndvlymzn.jpg",
@@ -66,7 +77,11 @@
       "description": "View the optimal layout depending on their device's screen size",
       "codeSrc": "https://github.com/zougari47/portfolio-template",
       "liveDemoURL": "https://github.com/zougari47/portfolio-template",
-      "technologies": ["astro", "react", "tailwind"]
+      "technologies": [
+        "astro",
+        "react",
+        "tailwind"
+      ]
     },
     {
       "imageSrc": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/lowozx0v3khn1hyggkqy.jpg",
@@ -74,7 +89,10 @@
       "description": "Devjobs web app",
       "codeSrc": "https://github.com/zougari47/portfolio-template",
       "liveDemoURL": "https://github.com/zougari47/portfolio-template",
-      "technologies": ["next", "tailwind"]
+      "technologies": [
+        "next",
+        "tailwind"
+      ]
     }
   ]
 }
