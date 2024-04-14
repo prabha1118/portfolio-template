@@ -23,75 +23,53 @@
   "email": "prabhas1118@gmail.com",
   "location": "Ongole, India",
   "description": [
-    "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas quod magni enim facilis porro, repellat soluta distinctio deserunt veritatis nam molestiae eius nostrum natus dolor? Voluptates in iusto aspernatur illum",
-    "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas quod magni enim facilis porro.",
-    " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas quod magni enim facilis porro, repellat soluta distinctio deserunt veritatis nam molestiae eius nostrum natus dolor? Voluptates in iusto aspernatur illum."
+    "Enthusiastic Web3 developer with a strong foundation in building decentralized applications (dApps). I leverage Solidity to craft secure and efficient smart contracts, the backbone of the dApp revolution.  I'm driven by the potential of Web3 to create a more transparent, secure, and user-controlled internet",
+    "Eager to leverage research skills and passion for Web3 in a collaborative,team-oriented  hands-on environment. Driven to learn and explore Blockchain Core Engineering, Security, DeFi, NFTs and Layer2 Tooling. Thrives in autonomy and seeks to actively shape my experience in Web3."
   ],
   "links": {
     "twitter": "https://twitter.com/prabhas_eth",
     "linkedin": "https://www.linkedin.com/in/prabhas-k",
-    "github": "https://github.com/prabhas1118",
+    "github": "https://github.com/prabha1118",
     "mail": "mailto:prabhas1118@gmail.com",
     "blog": "https://blog.example.com"
   },
   "skills": [
+    "solidity",
+    "foundry",
+    "ethers",
     "html",
     "css",
-    "sass",
     "bootstrap",
-    "tailwind",
     "javascript",
-    "typescript",
-    "react",
-    "next",
-    "node",
+    "node*",
+    "express*",
+    "react*",
     "git",
-    "astro"
+    "python"
   ],
   "projects": [
     {
-      "imageSrc": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/qd1p2yaogl41ymtozppc.jpg",
-      "altText": "Connect Four game",
-      "description": "Play a game of Connect Four against another human player (alternating turns on the same computer)",
-      "codeSrc": "https://github.com/zougari47/portfolio-template",
-      "liveDemoURL": "https://github.com/zougari47/portfolio-template",
+      "imageSrc": "https://res.cloudinary.com/dwwaehjdt/image/upload/v1712133615/token-exchange-dapp_l40mrm.png",
+      "altText": "Decentralize token exchange",
+      "description": "Exchange your tokens with other available tokens at your own willing conversion, on decentralized platform.",
+      "codeSrc": "https://github.com/prabha1118/token-exchange-dapp",
+      "liveDemoURL": "https://token-exchange-dapp-rust.vercel.app",
       "technologies": [
-        "typescript",
-        "tailwind",
-        "next"
+        "solidity",
+        "foundry",
+        "react*"
       ]
     },
     {
-      "imageSrc": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/zurpxclpp6gavavnw6d2.jpg",
-      "altText": "Entertainment web app",
-      "description": "Navigate between Home, Movies, TV Series, and Bookmarked Shows pages",
-      "codeSrc": "https://github.com/zougari47/portfolio-template",
-      "liveDemoURL": "https://github.com/zougari47/portfolio-template",
+      "imageSrc": "https://res.cloudinary.com/dwwaehjdt/image/upload/v1712133678/pokemon-nft-visualizer_fadfc0.png",
+      "altText": "NFT Visualizer",
+      "description": "NFT Visualizer for minted NFTs of a NFT collection",
+      "codeSrc": "https://github.com/prabha1118/pokemon-nft-project",
+      "liveDemoURL": "https://pokemon-nft-project-2.vercel.app",
       "technologies": [
-        "node"
-      ]
-    },
-    {
-      "imageSrc": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/mubyltw6vmbmndvlymzn.jpg",
-      "altText": "Meet landing page",
-      "description": "View the optimal layout depending on their device's screen size",
-      "codeSrc": "https://github.com/zougari47/portfolio-template",
-      "liveDemoURL": "https://github.com/zougari47/portfolio-template",
-      "technologies": [
-        "astro",
-        "react",
-        "tailwind"
-      ]
-    },
-    {
-      "imageSrc": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/lowozx0v3khn1hyggkqy.jpg",
-      "altText": "Devjobs web app",
-      "description": "Devjobs web app",
-      "codeSrc": "https://github.com/zougari47/portfolio-template",
-      "liveDemoURL": "https://github.com/zougari47/portfolio-template",
-      "technologies": [
-        "next",
-        "tailwind"
+        "solidity",
+        "foundry",
+        "react*"
       ]
     }
   ]

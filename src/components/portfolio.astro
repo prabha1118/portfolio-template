@@ -1,6 +1,6 @@
 ---
-import { projects, links } from '@/data.json'
-import { Image } from 'astro:assets'
+import { projects, links } from "@/data.json";
+import { Image } from "astro:assets";
 ---
 
 <section id="portfolio" class="">
@@ -8,7 +8,7 @@ import { Image } from 'astro:assets'
     <h1 class="mb-md-5">PROJECTS</h1>
     <div class="row row-cols-1 row-cols-lg-2 g-3">
       {
-        projects.map(project => (
+        projects.map((project) => (
           <div>
             <div class="project" data-aos="flip-up" data-aos-duration="1000">
               <Image
@@ -23,7 +23,7 @@ import { Image } from 'astro:assets'
                   <p class="text-center">{project.description}</p>
                   <div class="links_project">
                     <a
-                      href={project.imageSrc}
+                      href={project.codeSrc}
                       target="_blank"
                       rel="noopener noreferrer"
                       title="source code"
@@ -44,7 +44,7 @@ import { Image } from 'astro:assets'
                 </div>
                 <div class="technology">
                   <div class="row">
-                    {project.technologies.map(tech => (
+                    {project.technologies.map((tech) => (
                       <div class="col d-flex justify-content-center">
                         <img
                           src={`/img/stack-icons/${tech}.svg`}
