@@ -42,13 +42,24 @@
     "css",
     "bootstrap",
     "javascript",
-    "node*",
-    "express*",
-    "react*",
+    "node",
+    "express",
+    "react",
     "git",
     "python"
   ],
   "projects": [
+    {
+      "imageSrc": "https://res.cloudinary.com/dwwaehjdt/image/upload/v1731766663/web3-wallet.png",
+      "altText": "Web3 Wallet",
+      "description": "Web3 wallet to interact with Solana (devnet) blockchain",
+      "codeSrc": "https://github.com/prabha1118/web3-wallet",
+      "liveDemoURL": "https://web3-wallet-kohl.vercel.app/",
+      "technologies": [
+        "react"
+      ]
+    },
+
     {
       "imageSrc": "https://res.cloudinary.com/dwwaehjdt/image/upload/v1712133615/token-exchange-dapp_l40mrm.png",
       "altText": "Decentralize token exchange",
@@ -58,7 +69,7 @@
       "technologies": [
         "solidity",
         "foundry",
-        "react*"
+        "react"
       ]
     },
     {
@@ -70,7 +81,7 @@
       "technologies": [
         "solidity",
         "foundry",
-        "react*"
+        "react"
       ]
     }
   ]
